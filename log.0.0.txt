@@ -1,0 +1,2 @@
+апр. 03, 2023 5:47:59 PM task.Task3 write
+INFO: Error
